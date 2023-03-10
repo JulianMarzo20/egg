@@ -1,2 +1,0 @@
-# egg
-curso de egg
